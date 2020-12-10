@@ -1,0 +1,2 @@
+ ./darknet detector demo build/darknet/x64/data/obj.data cfg/yolo-obj.cfg backup/yolo-obj_last.weights 06_frame17020.png 
+
